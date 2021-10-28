@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; configuration.title = "Compact"; ObjectID = "qaK-TP-OzB"; */
+"qaK-TP-OzB.configuration.title" = "Compact";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qaK-TP-OzB"; */
+"qaK-TP-OzB.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Full"; ObjectID = "tEB-YP-W9p"; */
+"tEB-YP-W9p.configuration.title" = "Full";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tEB-YP-W9p"; */
+"tEB-YP-W9p.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x7R-sw-wfF"; */
+"x7R-sw-wfF.text" = "Label";
